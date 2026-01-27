@@ -17,7 +17,7 @@ I don't just write syntax; I architect **revenue-ready systems**. I specialize i
 * **Live Deployments:** [ServEngines](https://www.servengines.com/) | [Flatrate Furniture](https://www.flatratefurnitureassembly.com/) | [LocalLeadBot](https://www.localleadbot.pro/) | [Successful Faith](https://www.successfulfaith.com/)
 
 ### 🛠️ My Tech Stack
-- **AI:** ChatGPT-4, Claude 3.5, Prompt Engineering
+- **AI:** ChatGPT-4, Claude 3.5, Prompt Engineering, Gemini 3 Pro
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend/Ops:** Python, PowerShell, GitHub, Vercel, VS Code
 
