@@ -14,7 +14,7 @@ I don't just write syntax; I architect **revenue-ready systems**. I specialize i
 ### 🎓 Credentials & Proof of Work
 * **Harvard University (CS50W):** Web Programming with Python and JavaScript.
 * **IBM SkillsBuild:** Artificial Intelligence Fundamentals (NLP, ML, Neural Networks).
-* **Live Deployments:** [ServEngines](https://www.servengines.com/) | [LocalLeadBot](https://www.localleadbot.pro/) | [Successful Faith](https://www.successfulfaith.com/)
+* **Live Deployments:** [ServEngines](https://www.servengines.com/) | [Flatrate Furniture](https://www.flatratefurnitureassembly.com/) | [LocalLeadBot](https://www.localleadbot.pro/) | [Successful Faith](https://www.successfulfaith.com/)
 
 ### 🛠️ My Tech Stack
 - **AI:** ChatGPT-4, Claude 3.5, Prompt Engineering
