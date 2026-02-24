@@ -1,25 +1,40 @@
-# Hi, I'm Sanderson Labousse 👋
-### AI Solutions Architect | Full-Stack Integrator | Harvard & IBM Certified
+Hi, I'm Sanderson Labousse 👋
+Founding Engineer | AI Architect | Product Builder
+I build autonomous revenue engines. I specialize in Agentic Workflows—moving beyond simple chatbots to create high-fidelity, production-ready systems that automate complex cognitive labor and research.
 
-I don't just write syntax; I architect **revenue-ready systems**. I specialize in "Human-in-the-Loop" engineering—leveraging AI to handle the heavy lifting of code generation while I focus on system architecture, security, and high-speed deployment.
+🛠️ Featured Launch: Sentient Prospect
+The World’s First AI-Native Behavioral CRM.
 
----
+The Brain: Engineered with Gemini 2.5 to transform unstructured web data into psychological dossiers.
 
-### 🚀 What I Build
-* **AI-Accelerated Platforms:** High-performance web apps built with Next.js and React.
-* **Revenue Pipelines:** Multi-channel integrations using Fourthwall (POD) and Gumroad (Digital).
-* **Automated Lead Gen:** End-to-end data capture and backend routing systems.
-* **Secure Architectures:** Database-driven solutions using Supabase, Firebase, and SQL.
+The System: Built a dynamic Kanban deals pipeline with real-time state management and automated outreach scripts.
 
-### 🎓 Credentials & Proof of Work
-* **Harvard University (CS50W):** Web Programming with Python and JavaScript.
-* **IBM SkillsBuild:** Artificial Intelligence Fundamentals (NLP, ML, Neural Networks).
-* **Live Deployments:** [ServEngines](https://www.servengines.com/) | [Flatrate Furniture](https://www.flatratefurnitureassembly.com/) | [LocalLeadBot](https://www.localleadbot.pro/) | [Successful Faith](https://www.successfulfaith.com/)
+The Impact: Reducing "Time-to-First-Email" by 90% via autonomous research agents.
 
-### 🛠️ My Tech Stack
-- **AI:** ChatGPT-4, Claude 3.5, Prompt Engineering, Gemini 3 Pro
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend/Ops:** Python, PowerShell, GitHub, Vercel, VS Code
+🏗️ What I Architect
+Agentic Workflows: Multi-step AI reasoning chains using Gemini 2.5 & OpenAI.
 
----
-*"The goal isn't just to write code; it's to ship products that solve problems."*
+High-Fidelity UI/UX: Glassmorphic, responsive interfaces built with Next.js 15, React 19, and Tailwind.
+
+Scalable Infrastructure: Database-driven solutions (PostgreSQL, Supabase) architected for Fortune 50 scale.
+
+Revenue Automation: Proprietary lead-gen engines (LocalLeadBot.pro) that handle 24/7 qualification pipelines.
+
+🛠️ My Tech Stack
+AI Orchestration: Gemini 2.5, Prompt Engineering (Few-Shot/CoT), RAG, Agentic Frameworks.
+
+Frontend/Design: Next.js (App Router), TypeScript, Framer Motion, Radix UI.
+
+Backend/Data: Python, Node.js, PostgreSQL, Supabase, Prisma.
+
+DevOps: Vercel (CI/CD), GitHub Actions, Infrastructure-as-Code (IaC) principles.
+
+🎓 Credentials
+Harvard University (CS50W): Web Programming with Python and JavaScript.
+
+IBM SkillsBuild: Artificial Intelligence Fundamentals (NLP, ML, Prompt Engineering).
+
+🌐 Ecosystem
+ServEngines | LocalLeadBot | Flatrate Furniture | Successful Faith
+
+"I don't just ship code; I ship outcomes."
