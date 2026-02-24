@@ -49,4 +49,4 @@ I build **autonomous revenue engines**. I specialize in **Agentic Workflows**—
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sandersonlabousse) | [Portfolio](https://www.servengines.com/) | [Email](mailto:sanderson@servengines.com)
+[LinkedIn](https://www.linkedin.com/in/sanderson-labousse-web-developer/) | [Portfolio](https://www.servengines.com/) | [Email](mailto:sanderson@servengines.com)
