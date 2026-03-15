@@ -1,52 +1,46 @@
 # Hi, I'm Sanderson Labousse 👋
+### Founding Engineer | AI Architect | Product Builder 
+**Headquarters: [sandersonaisolutions.com](https://www.sandersonaisolutions.com/)**
 
-### Founding Engineer | AI Architect | Product Builder
-
-I build **autonomous revenue engines**. I specialize in **Agentic Workflows**—moving beyond simple chatbots to create high-fidelity, production-ready systems that automate complex cognitive labor and research.
-
----
-
-### 🛠️ Featured Launch: [Sentient Prospect](https://www.sentientprospect.com/)
-**The World’s First AI-Native Behavioral CRM.**
-
-* **The Brain:** Engineered with **Gemini 2.5** to transform unstructured web data into psychological dossiers.
-* **The System:** Built a dynamic Kanban deals pipeline with real-time state management and automated outreach scripts.
-* **The Impact:** Reducing "Time-to-First-Email" by 90% via autonomous research agents.
+I don't just ship code; I architect **Autonomous Revenue Engines**. I specialize in **Agentic Workflows**—moving beyond simple chatbots to create high-fidelity, mission-critical systems that automate complex cognitive labor, research, and infrastructure orchestration.
 
 ---
 
-### 🏗️ What I Architect
+### 🌐 The Ecosystem: [Sanderson AI Solutions](https://www.sandersonaisolutions.com/)
+My work focuses on eliminating "Information Lag" through vertical AI applications. I build the systems that bridge the gap between unstructured data and structured business outcomes.
 
-* **Agentic Workflows:** Multi-step AI reasoning chains using Gemini 2.5 & OpenAI.
-* **High-Fidelity UI/UX:** Glassmorphic, responsive interfaces built with **Next.js 15**, **React 19**, and **Tailwind CSS**.
-* **Scalable Infrastructure:** Database-driven solutions (**PostgreSQL**, **Supabase**) architected for Fortune 50 scale.
-* **Revenue Automation:** Proprietary lead-gen engines ([LocalLeadBot.pro](https://www.localleadbot.pro/)) that handle 24/7 qualification pipelines.
-
----
-
-### 🛠️ My Tech Stack
-
-* **AI Orchestration:** Gemini 2.5, Prompt Engineering (Few-Shot/CoT), RAG, Agentic Frameworks.
-* **Frontend/Design:** Next.js (App Router), TypeScript, Framer Motion, Radix UI.
-* **Backend/Data:** Python, Node.js, PostgreSQL, Supabase, Prisma.
-* **DevOps:** Vercel (CI/CD), GitHub Actions, Infrastructure-as-Code (IaC) principles.
+* **[Sentient Prospect](https://sentientprospect.com/)**: The World’s First AI-Native Behavioral CRM. Engineered with **Gemini 2.5** to transform raw web data into deep psychological dossiers.
+* **[LocalLeadBot.pro](https://localleadbot.pro/)**: A proprietary B2B lead-generation engine with automated 24/7 qualification pipelines.
+* **[ServEngines.com](https://servengines.com/)**: A high-performance AI-consultancy hub optimized for global delivery via Vercel Edge.
 
 ---
 
-### 🎓 Credentials
+### 🏗️ Architectural Focus
 
-* **Harvard University (CS50W):** Web Programming with Python and JavaScript.
-* **IBM SkillsBuild:** Artificial Intelligence Fundamentals (NLP, ML, Prompt Engineering).
-
----
-
-### 🌐 Ecosystem
-
-[Sentient Prospect](https://www.sentientprospect.com/) | [ServEngines](https://www.servengines.com/) | [LocalLeadBot](https://www.localleadbot.pro/) | [Flatrate Furniture](https://www.flatratefurnitureassembly.com/) | [Successful Faith](https://www.successfulfaith.com/)
-
-> *"I don't just ship code; I ship outcomes."*
+* **Agentic Orchestration**: Multi-step AI reasoning chains and tool-calling agents using **Gemini 2.5** and the **Vercel AI SDK**.
+* **Next.js 16 Ecosystem**: Leveraging the **React 19.2 Compiler**, **Turbopack**, and the `use cache` directive for sub-second build times and 0-ms hydration.
+* **High-Fidelity UX**: Building production-ready, glassmorphic interfaces with **Tailwind CSS**, **Framer Motion**, and **Radix UI**.
+* **Scalable Infrastructure**: Architecting database-driven solutions (PostgreSQL, Supabase) designed for **Founding Engineer** velocity and enterprise-grade reliability.
 
 ---
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sanderson-labousse-web-developer/) | [Portfolio](https://www.servengines.com/) | [Email](mailto:sanderson@servengines.com)
+### 🛠️ The Tech Stack (2026 Edition)
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / ML** | Gemini 2.5, OpenAI O3, Prompt Engineering (CoT/RAG), Tool-Calling, Structured JSON |
+| **Frontend** | **Next.js 16 (App Router)**, React 19.2, TypeScript, Tailwind CSS |
+| **Backend** | Python (FastAPI/Django), Node.js (NestJS), PostgreSQL, Supabase, Prisma |
+| **DevOps** | Vercel (CI/CD), GitHub Actions, Infrastructure-as-Code (Terraform/Pulumi) |
+
+---
+
+### 🎓 Credentials & Expertise
+* **Harvard University (CS50W)**: Web Programming with Python and JavaScript.
+* **IBM SkillsBuild**: Artificial Intelligence Fundamentals (NLP, ML, and Ethical AI).
+* **Vertical Specialist**: Proven track record in Home Services, SaaS, and Revenue Infrastructure.
+
+### 📈 "I don't just ship code; I ship outcomes."
+
+**📫 Connect with Me**
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sanderson-labousse-software-engineer/)) | [Portfolio](https://www.sandersonaisolutions.com/) | [Email](mailto:sanderson@sandersonaisolutions.com)
