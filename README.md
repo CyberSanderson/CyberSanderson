@@ -43,4 +43,4 @@ My work focuses on eliminating "Information Lag" through vertical AI application
 ### 📈 "I don't just ship code; I ship outcomes."
 
 **📫 Connect with Me**
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sanderson-labousse-software-engineer/)) | [Portfolio](https://www.sandersonaisolutions.com/) | [Email](mailto:sanderson@sandersonaisolutions.com)
+[LinkedIn](https://www.linkedin.com/in/sanderson-labousse-software-engineer/) | [Portfolio](https://www.sandersonaisolutions.com/) | [Email](sanderson@sandersonaisolutions.com)
