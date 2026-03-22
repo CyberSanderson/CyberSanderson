@@ -40,7 +40,7 @@ My work focuses on eliminating "Information Lag" through vertical AI application
 * **IBM SkillsBuild**: Artificial Intelligence Fundamentals (NLP, ML, and Ethical AI).
 * **Vertical Specialist**: Proven track record in Home Services, SaaS, and Revenue Infrastructure.
 
-### 📈 "I don't just ship code; I ship outcomes."
+### 📈 "I architect production-grade AI systems. I keep my commercial product repos private to protect IP, but I am happy to perform a live code walkthrough or provide a private repository invite during the technical interview stage."
 
 **📫 Connect with Me**
 [LinkedIn](https://www.linkedin.com/in/sanderson-labousse-software-engineer/) | [Portfolio](https://www.sandersonaisolutions.com/) | [Email](mailto:sanderson@sandersonaisolutions.com)
