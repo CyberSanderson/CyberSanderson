@@ -2,7 +2,7 @@
 ### Founding Engineer | AI Architect | Product Builder 
 **Headquarters: [sandersonaisolutions.com](https://www.sandersonaisolutions.com/)**
 
-I don't just ship code; I architect **Autonomous Revenue Engines**. I specialize in **Agentic Workflows**—moving beyond simple chatbots to create high-fidelity, mission-critical systems that automate complex cognitive labor, research, and infrastructure orchestration.
+I don't just ship code; I architect **Autonomous Revenue Engines**. I specialize in **Agentic Workflows** moving beyond simple chatbots to create high-fidelity, mission-critical systems that automate complex cognitive labor, research, and infrastructure orchestration.
 
 ---
 
